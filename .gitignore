@@ -4,3 +4,5 @@ credentials.json
 # Cache / logs
 log.txt
 __pycache__/
+
+.venv/
