@@ -7,3 +7,4 @@ log.txt
 __pycache__/
 
 .venv/
+client_secret.json
