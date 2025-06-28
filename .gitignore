@@ -1,5 +1,6 @@
 # Credentials
 client_secret.json
+credentials.json
 
 # Cache / logs
 log.txt
