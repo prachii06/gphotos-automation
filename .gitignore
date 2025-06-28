@@ -1,0 +1,6 @@
+# Credentials
+credentials.json
+
+# Cache / logs
+log.txt
+__pycache__/
