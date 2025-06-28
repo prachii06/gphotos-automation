@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 destination="/mnt/d/synced_photos" 
-credentials="credentials.json" #google api credentials
+credentials="client_credentials.json" #google api credentials
 
 mkdir -p "$destination" #to create folder if not exists
                         #here , p ensures that there is no error if folder already exiists
