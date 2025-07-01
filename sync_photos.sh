@@ -17,3 +17,4 @@ gphotos-sync "$destination" --secret "$secret_path" >> log.txt 2>&1
 
 echo "synced"
 
+
